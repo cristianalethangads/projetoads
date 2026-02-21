@@ -1,5 +1,9 @@
-# projetoads
-Projeto final ADS
+# Projeto final ADS
+Aluna: Cristiana Lethang Cardozo dos Santos
+Projeto: Análise de Dados no dataset HAM10000
+Software Product: Analysis, Specification, Project & Implementation 202601 - EAD - ADS 5A
+Faculdade Impacta
+Professor Antonio de Oliveira Dias
 
 # Orientações
 - O projeto deve ter 3 camadas de desenvolvimento, front-end, back-end e banco de dados
