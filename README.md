@@ -1,19 +1,47 @@
-# Projeto final ADS
-Aluna: Cristiana Lethang Cardozo dos Santos
+# Projeto final ADS - Análise de dados no dataset HAM10000
 
-Projeto: Análise de Dados no dataset HAM10000
+---
 
-Software Product: Analysis, Specification, Project & Implementation 202601 - EAD - ADS 5A
+## Sobre a aluna
 
-Faculdade Impacta
+**Aluna:** Cristiana Lethang Cardozo dos Santos - RA: 2400060
 
-Professor Antonio de Oliveira Dias
+**Software Product: Analysis, Specification, Project & Implementation 202601 - EAD - ADS 5A**
 
-# Orientações
+**Faculdade Impacta de Tecnologia**
+
+**Professor:** Antonio de Oliveira Dias
+
+## Sobre o projeto
+
+**Projeto: Análise de Dados no dataset HAM10000**
+
+Este repositório contém um projeto de análise de dados desenvolvido no Google Colab, com análise e visualização de dados.  
+
+O projeto inclui:  
+- 📈 **Análise de dados:** [https://colab.research.google.com/drive/1hFBxgmipwJontxojd1Q6yfWKw0pHO5o1?authuser=0#scrollTo=ELqVQg93-a0M ](https://colab.research.google.com/drive/1hFBxgmipwJontxojd1Q6yfWKw0pHO5o1?authuser=0#scrollTo=ELqVQg93-a0M)
+- 🎨 **Visualizações gráficas:** [https://colab.research.google.com/drive/1hFBxgmipwJontxojd1Q6yfWKw0pHO5o1?authuser=0#scrollTo=ELqVQg93-a0M](https://colab.research.google.com/drive/1hFBxgmipwJontxojd1Q6yfWKw0pHO5o1?authuser=0#scrollTo=ELqVQg93-a0M)
+- <img alt="[Icon]" height="25" width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"> **Board do projeto:** [https://github.com/users/cristianalethangads/projects/2/views/1](https://github.com/users/cristianalethangads/projects/2/views/1)
+
+## 📝 Estrutura de Entregas:  
+O projeto será desenvolvido através de 3 AC's e entrega final:  
+- **AC1** → Distribuição Anatômica de Lesões: Homens vs Mulheres - Mapa de calor  ▶️ Vídeo no YouTube: [https://youtu.be/CJxUpaQgHv0](https://youtu.be/a6EB-wdrxiQ)
+- **AC2** → a fazer 
+- **AC3** → a fazer
+- **Entrega Final** → a fazer
+
+### Tecnologias Utilizadas:  
+- **Google Colab**  
+- **Linguagem Python**
+- **GitHub**
+
+---
+
+# Orientações dadas na disciplina
 - O projeto deve ter 3 camadas de desenvolvimento, front-end, back-end e banco de dados
 ou pode ser um projeto de dados (BI, analise de dados)
 - As entregas serao divididas em 3 ACs e uma entrega final equivalente a prova.
-- Cada uma das 4 entregas devem apresentar uma nova funcionalidade em vídeo.
+- Cada uma das 4 entregas devem apresentar uma nova funcionalidade ou um novo gráfico em vídeo.
 - Todos os alunos devem fazer a entrega das atividades pelo classroom, mesmo que alguém do grupo já tenha feito a entrega.
 
 - Nas entregas deverao ter:
